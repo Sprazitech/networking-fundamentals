@@ -1,6 +1,6 @@
-# summarizing the OSI model, IP addressing calculations, and TCP/IP analysis.
+# Summarizing the OSI model, IP addressing calculations, and TCP/IP analysis.
 
-**1.explaining the OSI model layers with real-world examples for each layer.**
+**1. explaining the OSI model layers with real-world examples for each layer.**
 
 case study is Lagos to Accra: Sending an Email for tourist Adventure Through the OSI Model
 
