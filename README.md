@@ -51,6 +51,9 @@ Broadcast Address: 9.255.255.255
 
 Host Capacity: 16,777,214
 
+
+![Alt text](photos/subnet_1.jpg)
+
 **2. IP Address: 151.10.13.55**
    
 Default Class: Class B
@@ -64,6 +67,9 @@ Broadcast Address: 151.10.255.255
 
 Host Capacity: 65,534
 
+
+![Alt text](photos/subnet_2.jpg)
+
 **3. IP Address: 203.42.62.1**
    
 Default Class: Class C
@@ -76,6 +82,9 @@ Last Usable IP: 203.42.62.254
 Broadcast Address: 203.42.62.255
 
 Host Capacity: 254
+
+
+![Alt text](photos/subnet_3.jpg)
 
 
 **3. short analysis of how the TCP/IP protocol suite operates across layers in a real-world scenario**
