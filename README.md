@@ -2,9 +2,9 @@
 
 **1. explaining the OSI model layers with real-world examples for each layer.**
 
-case study is Lagos to Accra: Sending an Email for tourist Adventure Through the OSI Model
+case study is Lagos to Accra: Sending an Email for tourist Adventure Through the OSI Model.
 
-**1. The Application Layer (Layer 7):** Our adventure begins with the email client—say, Outlook—using SMTP (Simple Mail Transfer Protocol) to draft the message. Think of this as the email putting on its business suit, ready for international travel.
+**1. The Application Layer (Layer 7):** Our adventure begins with the email client, Outlook—using SMTP (Simple Mail Transfer Protocol) to draft the message. Think of this as the email putting on its business suit, ready for international travel.
 
 **2. The Presentation Layer (Layer 6):** Before departure, the email needs a little makeover. This layer handles formatting and encryption, ensuring the email not only looks sharp but also stays safe from prying eyes.
 
