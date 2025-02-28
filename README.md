@@ -42,33 +42,39 @@ When the email arrives in Accra, it goes through customs in reverse:
 
 Default Class: Class A
 Default Subnet Mask: 255.0.0.0 (/8)
+
 Subnet Range:
 Network Address: 9.0.0.0
 First Usable IP: 9.0.0.1
 Last Usable IP: 9.255.255.254
 Broadcast Address: 9.255.255.255
+
 Host Capacity: 16,777,214
 
 **2. IP Address: 151.10.13.55**
    
 Default Class: Class B
 Default Subnet Mask: 255.255.0.0 (/16)
+
 Subnet Range:
 Network Address: 151.10.0.0
 First Usable IP: 151.10.0.1
 Last Usable IP: 151.10.255.254
 Broadcast Address: 151.10.255.255
+
 Host Capacity: 65,534
 
 **3. IP Address: 203.42.62.1**
    
 Default Class: Class C
 Default Subnet Mask: 255.255.255.0 (/24)
+
 Subnet Range:
 Network Address: 203.42.62.0
 First Usable IP: 203.42.62.1
 Last Usable IP: 203.42.62.254
 Broadcast Address: 203.42.62.255
+
 Host Capacity: 254
 
 
